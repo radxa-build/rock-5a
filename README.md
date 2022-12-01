@@ -1,5 +1,5 @@
-# ROCK 5B
-[![Build](https://github.com/radxa-build/rock-5b/workflows/Build/badge.svg)](https://github.com/radxa-build/rock-5b/actions/workflows/build.yml)
+# ROCK 5A
+[![Build](https://github.com/radxa-build/rock-5a/workflows/Build/badge.svg)](https://github.com/radxa-build/rock-5a/actions/workflows/build.yml)
 
 ## What is this?
 
@@ -20,13 +20,13 @@ We provide **unofficial** Armbian images for evaluation purposes only. This is n
 
 ## Is there any other options?
 
-Armbian users are strongly recommended to use [Armbian official image](https://www.armbian.com/rock-5b/).
+Armbian users are strongly recommended to use [Armbian official image](https://www.armbian.com/rock-5a/).
 
 Please visit [our Wiki](https://wiki.radxa.com/Rock5/downloads) for more download options.
 
 ## Where can I download the Radxa image?
 
-Every month new images are [built](https://github.com/radxa-build/rock-5b/actions/workflows/build.yml) and [published](https://github.com/radxa-build/rock-5b/releases) as pre-releases, which serve as release candidates (RC). Radxa will periodically select an RC for additional testing, and once it passes those tests, promote it as an officially supported release. This is why you are always recommended to use [the latest release](https://github.com/radxa-build/rock-5b/releases/latest).
+Every month new images are [built](https://github.com/radxa-build/rock-5a/actions/workflows/build.yml) and [published](https://github.com/radxa-build/rock-5a/releases) as pre-releases, which serve as release candidates (RC). Radxa will periodically select an RC for additional testing, and once it passes those tests, promote it as an officially supported release. This is why you are always recommended to use [the latest release](https://github.com/radxa-build/rock-5a/releases/latest).
 
 ## Help! Something doesn't work!
 

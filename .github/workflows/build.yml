@@ -33,9 +33,9 @@ jobs:
     strategy:
       matrix:
         boards: [rock-5a]
-        build_systems: [debos, rbuild]
+        build_systems: [rbuild]
         distros: [debian, ubuntu]
-        flavors: [kde, xfce, cli]
+        flavors: [kde, cli]
         exclude:
           - build_systems: debos
             distros: debian

@@ -3,7 +3,7 @@
 
 ## What is this?
 
-This repo is the central location for Radxa-built system images for ROCK 5B.
+This repo is the central location for Radxa-built system images for ROCK 5A.
 
 Not all images are officially supported by Radxa. Some of them are only provided as-is with no warranty. Please read below for detailed explanations.
 

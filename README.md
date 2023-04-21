@@ -1,5 +1,5 @@
 # ROCK 5A
-[![Build](https://github.com/radxa-build/rock-5a/workflows/Build/badge.svg)](https://github.com/radxa-build/rock-5a/actions/workflows/build.yml)
+[![Build image for Release channel](https://github.com/radxa-build/rock-5a/actions/workflows/build.yml/badge.svg)](https://github.com/radxa-build/rock-5a/actions/workflows/build.yml)[![Build image for Test channel](https://github.com/radxa-build/rock-5a/actions/workflows/test.yml/badge.svg)](https://github.com/radxa-build/rock-5a/actions/workflows/test.yml)
 
 ## What is this?
 
